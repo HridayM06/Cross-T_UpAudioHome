@@ -1,7 +1,7 @@
 [
     {
         "title": "What it means to believe in Christ",
-        "coverImage": "https://raw.githubusercontent.com/yourusername/repo/main/images/cover1.png",
+        "coverImage": "https://raw.githubusercontent.com/yourusername/repo/main/images/DownArrow.png",
         "category": "Faith Foundations",
         "dailyContent": [
             "Believing in Christ means accepting Him as your Savior...",
@@ -15,7 +15,7 @@
     },
     {
         "title": "God calls us to be more",
-        "coverImage": "https://raw.githubusercontent.com/yourusername/repo/main/images/cover2.png",
+        "coverImage": "https://raw.githubusercontent.com/yourusername/repo/main/images/RedButton.png",
         "category": "Christian Living",
         "dailyContent": [
             "Living the Gospel",
